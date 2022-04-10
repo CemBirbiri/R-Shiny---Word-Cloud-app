@@ -18,8 +18,11 @@ Word Cloud is a vizualisation method that displays how frequently words appear i
 How to run the code:
 
 1- Download R Studio
+
 2- Download the "R-Shiny Word Cloud app" directory to your local computer. It has all the dataset and the code. 
+
 3- Open the app.R file in R Studio
-4- Press "shift-command-enter" on MAC
-5- Press "shift-ctrl-enter" on other operating systems
-6- You will see the Shiny app and word cloud. Enjoy!
+
+4- Run the app.R (Press "shift-command-enter" on MAC or press "shift-ctrl-enter" on other operating systems.)
+
+5- A new tab will open. You will see the Shiny app and word cloud options. Enjoy!
