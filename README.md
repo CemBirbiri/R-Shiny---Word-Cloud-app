@@ -10,8 +10,10 @@ It uses the Wasabi dataset, spesifically the song Genres and their lyric summari
 https://github.com/micbuffa/WasabiDataset
 
 However, you don't have to download the dataset here. All the data is avalable on GENRES folder.
-Word Cloud is a vizualisation method that displays how frequently words appear in a given body of text, by making the size of each word proportional to![Uploading cem_wordcloud_example.png…]()
- its frequency. Colour used on Word Clouds is usually meaningless. The location of the word is also meaningless. Some words are written horizontally and some are written vertically which are random and do not mean anything. Only meaning feature in the word cloud is the size of the word.
+
+Detailed explanation of the Shiny project can be found in the report.pdf
+
+Word Cloud is a vizualisation method that displays how frequently words appear in a given body of text, by making the size of each word proportional to its frequency. Colour used on Word Clouds is usually meaningless. The location of the word is also meaningless. Some words are written horizontally and some are written vertically which are random and do not mean anything. Only meaning feature in the word cloud is the size of the word.
 
 How to run the code:
 
