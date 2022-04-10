@@ -11,7 +11,7 @@ https://github.com/micbuffa/WasabiDataset
 
 However, you don't have to download the dataset here. All the data is avalable on GENRES folder.
 
-Detailed explanation of the Shiny project can be found in the report.pdf
+Detailed explanation of the Shiny project can be found in the Report.pdf
 
 Word Cloud is a vizualisation method that displays how frequently words appear in a given body of text, by making the size of each word proportional to its frequency. Colour used on Word Clouds is usually meaningless. The location of the word is also meaningless. Some words are written horizontally and some are written vertically which are random and do not mean anything. Only meaning feature in the word cloud is the size of the word.
 
